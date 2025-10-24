@@ -1,0 +1,22 @@
+{
+  "name": "com.devknit.framework",
+  "displayName": "Knit Framework",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.addressables": "1.21.20",
+    "com.unity.render-pipelines.core": "14.0.9",
+    "com.unity.render-pipelines.universal": "14.0.9"
+  },
+  "author": {
+    "name": "Knit",
+    "email": "devknit.yua@gmail.com",
+    "url": "https://github.com/devknit"
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "path": "Samples~/Example"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbfaca5119cc704583a8d89566078d6, type: 3}
+  m_Name: ModuleSetting
+  m_EditorClassIdentifier: 
+  m_DaemonPrefabs:
+  - {fileID: 7231627944935938241, guid: aab117e8737c86543b2e2254cb90b771, type: 3}
+  m_ModalPrefabs:
+    m_Keys: []
+    m_Values: []
+  m_SelectableActions:
+  - {fileID: 11400000, guid: e5899c8f3c72b7341aab169d7b2e0abf, type: 2}
+  - {fileID: 11400000, guid: 0aba0abd0af93cf4390bab1ba8a1505b, type: 2}
+  m_SelectableAudios:
+  - {fileID: 11400000, guid: 53d364cec249102479afa8ecfb99cf38, type: 2}
+  - {fileID: 11400000, guid: 564b6290555181b46b2b8c11e347b011, type: 2}
+  m_AudioMixer: {fileID: 24100000, guid: af17e15d792a80f429d06560dbd98030, type: 2}
+  m_BackgroundMixerGroup: {fileID: 8392766049335374204, guid: af17e15d792a80f429d06560dbd98030,
+    type: 2}
