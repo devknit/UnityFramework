@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Timeline;
 using UnityEngine.Playables;
 
-namespace Knit.Timeline
+namespace Knit.TimelineExtension
 {
 	[System.Serializable]
 	sealed class AmbientClip : PlayableAsset, ITimelineClipAsset

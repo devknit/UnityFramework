@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using Knit.Framework;
 
-namespace Knit.Timeline
+namespace Knit.TimelineExtension
 {
 	[System.Serializable]
 	sealed class AmbientBehaviour : PlayableBehaviour

@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Timeline;
 using UnityEngine.Playables;
 
-namespace Knit.Timeline
+namespace Knit.TimelineExtension
 {
 	[TrackClipType( typeof( AmbientClip))]
 	[TrackColor( 252.0f / 255.0f, 252.0f / 255.0f, 252.0f / 255.0f)]
