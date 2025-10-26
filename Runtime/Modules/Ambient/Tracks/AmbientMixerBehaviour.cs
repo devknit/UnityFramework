@@ -2,7 +2,7 @@
 using UnityEngine.Playables;
 using Knit.Framework;
 
-namespace Knit.TimelineExtension
+namespace Knit.Framework
 {
 	sealed class AmbientMixerBehaviour : PlayableBehaviour
 	{
